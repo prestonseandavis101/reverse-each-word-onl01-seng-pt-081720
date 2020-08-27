@@ -6,3 +6,4 @@ def reverse_each_word(sentence)
     new_sentence << string.reverse
 new_sentence.join(" ")
 end
+end
